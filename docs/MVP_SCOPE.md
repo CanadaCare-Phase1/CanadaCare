@@ -1,1 +1,1 @@
-
+CanadaCare is a secure healthcare coordination and interoperability platform designed to improve patient visibility, referral coordination, appointment access, waitlist management and healthcare-capacity utilization across existing healthcare systems.
